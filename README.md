@@ -30,7 +30,7 @@
 <br>[Download do minGW para Windows](https://osdn.net/projects/mingw/)
 <br>[Download do NodeJS LTS](https://nodejs.org)
 <br>[Download do Python3](https://www.python.org/downloads/)
-<br>[Winget - Windows Package Manager - Repositorio com lista de pacotes disponíveis](https://github.com/microsoft/winget-pkgs/]()
+<br>[Winget - Windows Package Manager - Repositorio com lista de pacotes disponíveis](https://github.com/microsoft/winget-pkgs/)
 <br>[WingetUI - Interface para o Windows Package Manager](https://www.marticliment.com/wingetui/)
 <br>[WingetUI - Interface para o Windows Package Manager SRC](https://github.com/marticliment/WingetUI)
 <br>[Winstall - Interface para o winget](https://winstall.app)
