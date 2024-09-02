@@ -9,6 +9,7 @@
 ## Documentação
 
 <br>[Documentação do Cygwin](https://cygwin.com)
+<br>[Documentação do Expo](https://docs.expo.dev/get-started/start-developing/) Iniciando alterações no app Android
 <br>[Documentação do GitHub](https://docs.github.com/en/get-started)
 <br>[Documentação da linguagem C - Microsoft](https://learn.microsoft.com/pdf?url=https%3A%2F%2Flearn.microsoft.com%2Fpt-br%2Fcpp%2Fc-language%2Ftoc.json%3Fview%3Dmsvc-170)
 <br>[Documentação da linguagem C - Microsoft - Reference guide](https://learn.microsoft.com/en-us/cpp/c-language/c-language-reference?view=msvc-170)
