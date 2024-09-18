@@ -48,5 +48,6 @@
 
 ## Vídeos
 
+<br>[Como utilizar o SQLite no React Native com Expo](https://www.youtube.com/watch?v=BJEACwKXWf8)
 <br>[Playlist em Video sobre PythonRAD](https://www.youtube.com/watch?v=c90uY0a1bWY&list=PLZbE2P-mybWQMzuf9N5aDd5gIbZdWHaaz)
 <br>[Video sobre lógica, portas lógicas e funcionamento de tabela verdade](https://m.youtube.com/watch?v=BbnDmeNojFA)
