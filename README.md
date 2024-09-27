@@ -5,6 +5,8 @@
 ## Artigos
 
 <br>[Artigo: MariaDB vs PostgreSQL: 14 Critical Differences](https://kinsta.com/blog/mariadb-vs-postgresql/)
+<br>[Artigo: Metodologias ativas de aprendizagem: o que são e 13 tipos](https://www.totvs.com/blog/instituicao-de-ensino/metodologias-ativas-de-aprendizagem/)
+<br>[Artigo: O que é Minimum Viable Product, o MVP?](https://distrito.me/blog/minimo-produto-viavel-mvp/)
 
 ## Documentação
 
