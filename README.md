@@ -30,6 +30,7 @@
 
 ## Download e Ferramentas
 
+<br>[Discover, download, and run local LLMs - ChatGPT Offline](https://lmstudio.ai)
 <br>[Download do minGW para Windows](https://osdn.net/projects/mingw/)
 <br>[Download do NodeJS LTS](https://nodejs.org)
 <br>[Download do Python3](https://www.python.org/downloads/)
