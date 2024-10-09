@@ -8,6 +8,10 @@
 <br>[Artigo: Metodologias ativas de aprendizagem: o que são e 13 tipos](https://www.totvs.com/blog/instituicao-de-ensino/metodologias-ativas-de-aprendizagem/)
 <br>[Artigo: O que é Minimum Viable Product, o MVP?](https://distrito.me/blog/minimo-produto-viavel-mvp/)
 
+## Certificações
+
+<br>[GitHub Foundations Certification - Gratuito](https://education.github.com/experiences/foundations_certificate)
+
 ## Documentação
 
 <br>[Documentação do Cygwin](https://cygwin.com)
