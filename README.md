@@ -43,6 +43,11 @@
 <br>[WingetUI - Interface para o Windows Package Manager SRC](https://github.com/marticliment/WingetUI)
 <br>[Winstall - Interface para o winget](https://winstall.app)
 
+## Newsletters
+
+<br>[Daily Dose of Data Science](https://blog.dailydoseofds.com/)
+
+
 ## Tutoriais
 
 <br>[O que é Git e GitHub?](https://www.alura.com.br/artigos/o-que-e-git-github)
