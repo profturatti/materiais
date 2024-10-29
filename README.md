@@ -51,6 +51,7 @@
 ## Tutoriais
 
 <br>[O que é Git e GitHub?](https://www.alura.com.br/artigos/o-que-e-git-github)
+<br>[Python e Orientação a Objetos](https://www.alura.com.br/apostila-python-orientacao-a-objetos) by Alura
 <br>[Tutorial para instalar e configurar o ReactNative + Expo by Alura](https://www.alura.com.br/artigos/configurando-o-ambiente-react-native)
 <br>[Tutorial para instalar e configurar o ReactNative + Expo by NotJustDev](https://www.notjust.dev/blog/2021-11-04-expo-development-environment-setup-for-first-react-native-project-windows)
 <br>[Tutorial para instalar e configurar o ReactNative + Expo by RocketSeat](https://react-native.rocketseat.dev/expo-managed/windows/)
