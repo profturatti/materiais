@@ -58,9 +58,9 @@
 <br>[GIT Book: livro completo online sobre o que é e como funciona](https://git-scm.com/book/pt-br/v2)
 <br>[O que é Git e GitHub?](https://www.alura.com.br/artigos/o-que-e-git-github)
 <br>[Python e Orientação a Objetos](https://www.alura.com.br/apostila-python-orientacao-a-objetos) by Alura
-<br>[Tutorial para instalar e configurar o ReactNative + Expo by Alura](https://www.alura.com.br/artigos/configurando-o-ambiente-react-native)
-<br>[Tutorial para instalar e configurar o ReactNative + Expo by NotJustDev](https://www.notjust.dev/blog/2021-11-04-expo-development-environment-setup-for-first-react-native-project-windows)
-<br>[Tutorial para instalar e configurar o ReactNative + Expo by RocketSeat](https://react-native.rocketseat.dev/expo-managed/windows/)
+<br>[Tutorial para instalar e configurar o ReactNative + Expo](https://www.alura.com.br/artigos/configurando-o-ambiente-react-native) by Alura
+<br>[Tutorial para instalar e configurar o ReactNative + Expo](https://www.notjust.dev/blog/2021-11-04-expo-development-environment-setup-for-first-react-native-project-windows) by NotJustDev
+<br>[Tutorial para instalar e configurar o ReactNative + Expo](https://react-native.rocketseat.dev/expo-managed/windows/) by RocketSeat
 <br>[Tutorial para instalar e configurar o VSCode para C/C++](https://code.visualstudio.com/docs/cpp/config-mingw)
 <br>[Tutorial para instalar e configurar o VSCode para Python](https://hub.asimov.academy/blog/como-instalar-e-configurar-o-vscode/)
 <br>[Tutorial sobre como compilar programa em C no VSCode Windows](https://www.tabnews.com.br/GabrielMoya/como-compilar-c-no-vscode-em-um-ambiente-windows)
