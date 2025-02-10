@@ -4,6 +4,7 @@
 
 ## Artigos
 
+<br>[Artigo: 7 maneiras de obter legalmente livros online](https://www.howtogeek.com/legal-ways-to-get-free-ebooks/)
 <br>[Artigo: MariaDB vs PostgreSQL: 14 Critical Differences](https://kinsta.com/blog/mariadb-vs-postgresql/)
 <br>[Artigo: Metodologias ativas de aprendizagem: o que são e 13 tipos](https://www.totvs.com/blog/instituicao-de-ensino/metodologias-ativas-de-aprendizagem/)
 <br>[Artigo: O que é Minimum Viable Product, o MVP?](https://distrito.me/blog/minimo-produto-viavel-mvp/)
@@ -14,13 +15,14 @@
 
 ## Documentação
 
+<br>[Como escrever em markdown](https://daringfireball.net/projects/markdown/syntax)
 <br>[Documentação do Cygwin](https://cygwin.com)
 <br>[Documentação do Expo](https://docs.expo.dev/get-started/start-developing/) Iniciando alterações no app Android
-<br>[Documentação do GitHub](https://docs.github.com/en/get-started)
+<br>[Documentação de introdução ao GitHub](https://docs.github.com/pt/get-started)
 <br>[Documentação da linguagem C - Microsoft](https://learn.microsoft.com/pdf?url=https%3A%2F%2Flearn.microsoft.com%2Fpt-br%2Fcpp%2Fc-language%2Ftoc.json%3Fview%3Dmsvc-170)
 <br>[Documentação da linguagem C - Microsoft - Reference guide](https://learn.microsoft.com/en-us/cpp/c-language/c-language-reference?view=msvc-170)
 <br>[Documentação da linguagem C - DevDocs](https://devdocs.io/c/)
-<br>[Documentação do Markdown](https://www.markdownguide.org/getting-started/)
+<br>[Documentação do Markdown](https://www.markdownguide.org/getting-started/) | [eBook](https://online.fliphtml5.com/eouqh/girj/#p=62)
 <br>[Documentação do MinGW](https://www.mingw-w64.org)
 <br>[Documentação do NodeJS](https://nodejs.org/docs/latest/api/)
 <br>[Documentação do Python3](https://docs.python.org/3/)
@@ -34,10 +36,12 @@
 
 ## Download e Ferramentas
 
+<br>[Conversor de HTML para MarkDown e vice-versa](https://htmlmarkdown.com)
 <br>[Discover, download, and run local LLMs - ChatGPT Offline](https://lmstudio.ai)
 <br>[Download do minGW para Windows](https://osdn.net/projects/mingw/)
 <br>[Download do NodeJS LTS](https://nodejs.org)
 <br>[Download do Python3](https://www.python.org/downloads/)
+<br>[SCRCPY: ScreenCopy - Visualize e utilize o celular na tela do computador](https://github.com/Genymobile/scrcpy/)
 <br>[Winget - Windows Package Manager - Repositorio com lista de pacotes disponíveis](https://github.com/microsoft/winget-pkgs/)
 <br>[WingetUI - Interface para o Windows Package Manager](https://www.marticliment.com/wingetui/)
 <br>[WingetUI - Interface para o Windows Package Manager SRC](https://github.com/marticliment/WingetUI)
