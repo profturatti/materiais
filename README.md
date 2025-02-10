@@ -41,6 +41,7 @@
 <br>[Download do minGW para Windows](https://osdn.net/projects/mingw/)
 <br>[Download do NodeJS LTS](https://nodejs.org)
 <br>[Download do Python3](https://www.python.org/downloads/)
+<br>[GIT: sistema de controle de versão distribuído](https://git-scm.com)
 <br>[SCRCPY: ScreenCopy - Visualize e utilize o celular na tela do computador](https://github.com/Genymobile/scrcpy/)
 <br>[Winget - Windows Package Manager - Repositorio com lista de pacotes disponíveis](https://github.com/microsoft/winget-pkgs/)
 <br>[WingetUI - Interface para o Windows Package Manager](https://www.marticliment.com/wingetui/)
@@ -54,6 +55,7 @@
 
 ## Tutoriais
 
+<br>[GIT Book: livro completo online sobre o que é e como funciona](https://git-scm.com/book/pt-br/v2)
 <br>[O que é Git e GitHub?](https://www.alura.com.br/artigos/o-que-e-git-github)
 <br>[Python e Orientação a Objetos](https://www.alura.com.br/apostila-python-orientacao-a-objetos) by Alura
 <br>[Tutorial para instalar e configurar o ReactNative + Expo by Alura](https://www.alura.com.br/artigos/configurando-o-ambiente-react-native)
