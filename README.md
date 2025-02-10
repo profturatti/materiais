@@ -39,6 +39,7 @@
 <br>[Download do NodeJS LTS](https://nodejs.org)
 <br>[Download do Python3](https://www.python.org/downloads/)
 <br>[GIT: sistema de controle de versão distribuído](https://git-scm.com)
+<br>[MSYS2: Software Distribution and Building Platform for Windows](https://www.msys2.org) | [Project on GitHub](https://github.com/msys2)
 <br>[SCRCPY: ScreenCopy - Visualize e utilize o celular na tela do computador](https://github.com/Genymobile/scrcpy/)
 <br>[Winget - Windows Package Manager - Repositorio com lista de pacotes disponíveis](https://github.com/microsoft/winget-pkgs/)
 <br>[WingetUI - Interface para o Windows Package Manager](https://www.marticliment.com/wingetui/)
