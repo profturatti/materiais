@@ -1,21 +1,19 @@
 # Materiais Complementares
-
-<br>[Ambiente para desenvolvimento com diversas linguagens no navegador](https://replit.com)
+[Ambiente para desenvolvimento com diversas linguagens no navegador](https://replit.com) REPLIT
+<br>[Ambiente para desenvolvimento com diversas linguagens no navegador](https://idx.dev/) IDX.GOOGLE
+<br>[Ambiente para desenvolvimento React Native + EXPO](https://snack.expo.dev) Snack EXPO
 
 ## Artigos
-
-<br>[Artigo: 7 maneiras de obter legalmente livros online](https://www.howtogeek.com/legal-ways-to-get-free-ebooks/)
+[Artigo: 7 maneiras de obter legalmente livros online](https://www.howtogeek.com/legal-ways-to-get-free-ebooks/)
 <br>[Artigo: MariaDB vs PostgreSQL: 14 Critical Differences](https://kinsta.com/blog/mariadb-vs-postgresql/)
 <br>[Artigo: Metodologias ativas de aprendizagem: o que são e 13 tipos](https://www.totvs.com/blog/instituicao-de-ensino/metodologias-ativas-de-aprendizagem/)
 <br>[Artigo: O que é Minimum Viable Product, o MVP?](https://distrito.me/blog/minimo-produto-viavel-mvp/)
 
 ## Certificações
-
-<br>[GitHub Foundations Certification - Gratuito](https://education.github.com/experiences/foundations_certificate)
+[GitHub Foundations Certification - Gratuito](https://education.github.com/experiences/foundations_certificate)
 
 ## Documentação
-
-<br>[Como escrever em markdown](https://daringfireball.net/projects/markdown/syntax)
+[Como escrever em markdown](https://daringfireball.net/projects/markdown/syntax)
 <br>[Documentação do Cygwin](https://cygwin.com)
 <br>[Documentação do Expo](https://docs.expo.dev/get-started/start-developing/) Iniciando alterações no app Android
 <br>[Documentação de introdução ao GitHub](https://docs.github.com/pt/get-started)
@@ -35,8 +33,7 @@
 <br>[Using PostgreSQL in Python](https://www.datacamp.com/tutorial/tutorial-postgresql-python)
 
 ## Download e Ferramentas
-
-<br>[Conversor de HTML para MarkDown e vice-versa](https://htmlmarkdown.com)
+[Conversor de HTML para MarkDown e vice-versa](https://htmlmarkdown.com)
 <br>[Discover, download, and run local LLMs - ChatGPT Offline](https://lmstudio.ai)
 <br>[Download do minGW para Windows](https://osdn.net/projects/mingw/)
 <br>[Download do NodeJS LTS](https://nodejs.org)
@@ -49,13 +46,12 @@
 <br>[Winstall - Interface para o winget](https://winstall.app)
 
 ## Newsletters
-
-<br>[Daily Dose of Data Science](https://blog.dailydoseofds.com/)
+[Daily Dose of Data Science](https://blog.dailydoseofds.com/)
+<br>[TLDR; ](https://tldr.tech/newsletters)
 
 
 ## Tutoriais
-
-<br>[GIT Book: livro completo online sobre o que é e como funciona](https://git-scm.com/book/pt-br/v2)
+[GIT Book: livro completo online sobre o que é e como funciona](https://git-scm.com/book/pt-br/v2)
 <br>[O que é Git e GitHub?](https://www.alura.com.br/artigos/o-que-e-git-github)
 <br>[Python e Orientação a Objetos](https://www.alura.com.br/apostila-python-orientacao-a-objetos) by Alura
 <br>[Tutorial para instalar e configurar o ReactNative + Expo](https://www.alura.com.br/artigos/configurando-o-ambiente-react-native) by Alura
@@ -66,7 +62,6 @@
 <br>[Tutorial sobre como compilar programa em C no VSCode Windows](https://www.tabnews.com.br/GabrielMoya/como-compilar-c-no-vscode-em-um-ambiente-windows)
 
 ## Vídeos
-
-<br>[Como utilizar o SQLite no React Native com Expo](https://www.youtube.com/watch?v=BJEACwKXWf8)
+[Como utilizar o SQLite no React Native com Expo](https://www.youtube.com/watch?v=BJEACwKXWf8)
 <br>[Playlist em Video sobre PythonRAD](https://www.youtube.com/watch?v=c90uY0a1bWY&list=PLZbE2P-mybWQMzuf9N5aDd5gIbZdWHaaz)
 <br>[Video sobre lógica, portas lógicas e funcionamento de tabela verdade](https://m.youtube.com/watch?v=BbnDmeNojFA)
