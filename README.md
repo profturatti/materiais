@@ -25,11 +25,14 @@
 <br>[Documentação do NodeJS](https://nodejs.org/docs/latest/api/)
 <br>[Documentação do Python3](https://docs.python.org/3/)
 <br>[Documentação do Winget - instalação e atualização em linha de comando para Windows](https://learn.microsoft.com/en-us/windows/package-manager/winget/)
+<br>[eBook: Pense em Python](https://penseallen.github.io/PensePython2e/) 2a Edição de Allen B. Downey - Nível Iniciante
+<br>[eBook: Python Fluente](https://pythonfluente.com) Segunda Edição (2023) por Luciano Ramalho - Nível Intermediário
 <br>[Guia de referência rápida - Linguagem C](https://quickref.me/c.html)
 <br>[Guia de referência rápida - Linguagem de marcação de texto HTML](https://quickref.me/html.html)
 <br>[Guia de referência rápida - Linguagem Markdown](https://quickref.me/markdown.html)
 <br>[Guia de referência rápida - Linguagem Python](https://quickref.me/python.html)
 <br>[The C Programming Language - 2nd Ed. ebook](https://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf)
+<br>[Tutorial oficial do Python[(https://docs.python.org/pt-br/3.10/tutorial/) escrito pela comunidade brasileira
 <br>[Using PostgreSQL in Python](https://www.datacamp.com/tutorial/tutorial-postgresql-python)
 
 ## Download e Ferramentas
@@ -64,5 +67,7 @@
 
 ## Vídeos
 [Como utilizar o SQLite no React Native com Expo](https://www.youtube.com/watch?v=BJEACwKXWf8)
+<br>[Iniciando o uso do VSCode - Editor de códigos](https://code.visualstudio.com/docs/introvideos/basics)
+<br>[Python: Aula de configuração](https://efficient-sloth-d85.notion.site/Python-7c67e674c3c5410d8473ab2f4a39afef) by RocketSeat
 <br>[Playlist em Video sobre PythonRAD](https://www.youtube.com/watch?v=c90uY0a1bWY&list=PLZbE2P-mybWQMzuf9N5aDd5gIbZdWHaaz)
 <br>[Video sobre lógica, portas lógicas e funcionamento de tabela verdade](https://m.youtube.com/watch?v=BbnDmeNojFA)
