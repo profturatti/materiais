@@ -55,7 +55,8 @@
 
 
 ## Tutoriais
-[GIT Book: livro completo online sobre o que é e como funciona](https://git-scm.com/book/pt-br/v2)
+[Aprenda SQL se divertindo com um jogo de detetive](https://www.sqlnoir.com)
+<br>[GIT Book: livro completo online sobre o que é e como funciona](https://git-scm.com/book/pt-br/v2)
 <br>[O que é Git e GitHub?](https://www.alura.com.br/artigos/o-que-e-git-github)
 <br>[Python e Orientação a Objetos](https://www.alura.com.br/apostila-python-orientacao-a-objetos) by Alura
 <br>[Tutorial para instalar e configurar o ReactNative + Expo](https://www.alura.com.br/artigos/configurando-o-ambiente-react-native) by Alura
