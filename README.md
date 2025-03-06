@@ -3,6 +3,8 @@
 <br>[Ambiente para desenvolvimento com diversas linguagens no navegador](https://idx.dev/) IDX.GOOGLE
 <br>[Ambiente para desenvolvimento React Native + EXPO](https://snack.expo.dev) Snack EXPO
 
+<br>[Preparação do ambiente de trabalho W10/11 - Python e Android](./w11setup.txt)
+
 ## Artigos
 [A Origem do SQLite: o banco de dados mais usado no mundo](https://thenewstack.io/the-origin-story-of-sqlite-the-worlds-most-widely-used-database-software/)
 <br>[Artigo: 7 maneiras de obter legalmente livros online](https://www.howtogeek.com/legal-ways-to-get-free-ebooks/)
