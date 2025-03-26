@@ -7,7 +7,8 @@
 <br>[Preparação do GitHub CLI para agilizar o desenvolvimento](./w11_githubcli.txt)
 
 ## Artigos
-[A Origem do SQLite: o banco de dados mais usado no mundo](https://thenewstack.io/the-origin-story-of-sqlite-the-worlds-most-widely-used-database-software/)
+[12 Melhorias no CSS: atualizações aplicadas em uma linha](https://moderncss.dev/12-modern-css-one-line-upgrades/)
+<br>[A Origem do SQLite: o banco de dados mais usado no mundo](https://thenewstack.io/the-origin-story-of-sqlite-the-worlds-most-widely-used-database-software/)
 <br>[Artigo: 7 maneiras de obter legalmente livros online](https://www.howtogeek.com/legal-ways-to-get-free-ebooks/)
 <br>[Artigo: MariaDB vs PostgreSQL: 14 Critical Differences](https://kinsta.com/blog/mariadb-vs-postgresql/)
 <br>[Artigo: Metodologias ativas de aprendizagem: o que são e 13 tipos](https://www.totvs.com/blog/instituicao-de-ensino/metodologias-ativas-de-aprendizagem/)
