@@ -10,9 +10,12 @@
 [12 Melhorias no CSS: atualizações aplicadas em uma linha](https://moderncss.dev/12-modern-css-one-line-upgrades/)
 <br>[A Origem do SQLite: o banco de dados mais usado no mundo](https://thenewstack.io/the-origin-story-of-sqlite-the-worlds-most-widely-used-database-software/)
 <br>[Artigo: 7 maneiras de obter legalmente livros online](https://www.howtogeek.com/legal-ways-to-get-free-ebooks/)
+<br>[Artigo: Como se tornar um Engenheiro de Dados em 6 passos](https://www.coffeeandtips.com/post/como-se-tornar-um-engenheiro-de-dados-em-6-passos)
 <br>[Artigo: MariaDB vs PostgreSQL: 14 Critical Differences](https://kinsta.com/blog/mariadb-vs-postgresql/)
+<br>[Artigo: Mastering AI Agents: The 10 Best Free Courses, Tutorials & Learning Tools](https://medium.com/@maximilian.vogel/mastering-ai-agents-the-10-best-free-courses-tutorials-learning-tools-46bc380a19d1)
 <br>[Artigo: Metodologias ativas de aprendizagem: o que são e 13 tipos](https://www.totvs.com/blog/instituicao-de-ensino/metodologias-ativas-de-aprendizagem/)
 <br>[Artigo: O que é Minimum Viable Product, o MVP?](https://distrito.me/blog/minimo-produto-viavel-mvp/)
+<br>[Artigo: The Top 7 MCP-Supported AI Frameworks](https://medium.com/@amosgyamfi/the-top-7-mcp-supported-ai-frameworks-a8e5030c87ab)
 
 ## Certificações
 [GitHub Foundations Certification - Gratuito](https://education.github.com/experiences/foundations_certificate)
