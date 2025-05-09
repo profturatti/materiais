@@ -1,6 +1,6 @@
 # Materiais Complementares
 [Ambiente para desenvolvimento com diversas linguagens no navegador](https://replit.com) Replit
-<br>[Ambiente para desenvolvimento com diversas linguagens no navegador](https://idx.dev/) --IDX.GOOGLE-- Firebase Studio
+<br>[Ambiente para desenvolvimento com diversas linguagens no navegador](https://idx.dev/) ~~IDX.GOOGLE~~ Firebase Studio
 <br>[Ambiente para desenvolvimento React Native + EXPO](https://snack.expo.dev) Snack EXPO
 <br>[Android Studio Cloud (BETA)](https://studio.firebase.google.com/new/android-studio?hl=pt-br) Requer login de uma conta do Google
 
